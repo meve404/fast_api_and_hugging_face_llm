@@ -1,4 +1,3 @@
-.gitignore
 __pycache__/
 fast_api_example_1.py
 fast_api_example_2.py
