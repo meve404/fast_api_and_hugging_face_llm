@@ -1,3 +1,6 @@
+.gitignore
 __pycache__/
-fast_api_example.py
+fast_api_example_1.py
+fast_api_example_2.py
+fast_api_example_3.py
 snippets.txt
